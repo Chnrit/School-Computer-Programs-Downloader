@@ -10,7 +10,7 @@
 
 from urllib.request import urlretrieve
 import os
-import subprocess
+from time import sleep
 
 os.mkdir("SCPDL")
 
@@ -33,4 +33,6 @@ print("Git-2.33.0.2-64-bit.exe 파일 다운로드가 완료되었습니다.")
 location = os.getcwd()
 
 # open explore.exe
+print("자동으로 창이 닫히고 파일 탐색기가 열립니다...")
+sleep(0.5)
 os.startfile(location + "/SCPDL/")
