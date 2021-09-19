@@ -4,6 +4,6 @@
 ## 사용법
 
 ### Python 파일을 직접 실행하기
-1. [https://raw.githubusercontent.com/Chnrit/School-Computer-Programs-Downloader/main/dlfromserver.py] 에서 파일을 다운로드한다.
-2. (python.org)[https://www.python.org]에서 Python을 다운로드한다.
+1. (https://raw.githubusercontent.com/Chnrit/School-Computer-Programs-Downloader/main/dlfromserver.py) 에서 파일을 다운로드한다.
+2. [python.org](https://www.python.org)에서 Python을 다운로드한다.
 3. `python -u dlfromserver.py` 로 실행한다.
