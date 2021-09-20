@@ -1,6 +1,6 @@
 ##############
 # 
-# SCPDL
+# SCPD
 # (School Computer Programs Downloader, 학교컴 프로그램 다운)
 # 
 # Author: Chnrit (Chnrit@github)
