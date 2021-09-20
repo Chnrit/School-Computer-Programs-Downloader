@@ -6,7 +6,7 @@
 # Author: Chnrit (Chnrit@github)
 # License: MIT
 # GitHub: https://github.com/Chnrit/School-Computer-Programs-Downloader
-# Version: 1.0.1.1
+# Version: 1.0.1.2
 # 
 ##############
 
