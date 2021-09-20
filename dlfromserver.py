@@ -54,6 +54,8 @@ else:
 
     download("Git-2.33.0.2-64-bit.exe", "https://github.com/git-for-windows/git/releases/download/v2.33.0.windows.2/Git-2.33.0.2-64-bit.exe")
 
+    download("DiscordSetup.exe", "https://discord.com/api/download?platform=win")
+
     location = os.getcwd()
 
     # open explore.exe

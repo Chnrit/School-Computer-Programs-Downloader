@@ -2,10 +2,11 @@
 학교 컴퓨터 (주로 학교 컴퓨터실 안에 있는 컴퓨터)에서 사용되는 프로그램을 모아 한꺼번에 다운로드받을 수 있는 프로그램
 
 다운로드되는 파일
-* Firefox
-* Git for Windows
+* Firefox Setup
+* Git for Windows Setup
 * nProtect Uninstall
-* PowerToys
+* PowerToys Setup
+* DiscordSetup
 
 더 추가되었으면 하는 것이 있는 경우 문의를 해주세요.
 
