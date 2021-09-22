@@ -3,17 +3,19 @@
 
 다운로드되는 파일
 * Firefox Setup
+* Firefox Developer Edition Setup
 * Git for Windows Setup
 * nProtect Uninstall
 * PowerToys Setup
 * DiscordSetup
+* Python 3.9.7 Installer
 
 더 추가되었으면 하는 것이 있는 경우 문의를 해주세요.
 
 ## 사용법
 
 ### exe 파일 다운로드받기
-1. [exe 파일](https://static.chnrit.com/downloads/SCPD/1.0.0/SCPDServer1.0.0.exe)을 바로 다운로드받거나 [릴리즈 페이지](https://github.com/Chnrit/School-Computer-Programs-Downloader/releases/)에 방문하여 다운받습니다.
+1. [exe 파일](https://static.chnrit.com/downloads/SCPD/1.0.0/SCPDServer1.0.1.3.exe)을 바로 다운로드받거나 [릴리즈 페이지](https://github.com/Chnrit/School-Computer-Programs-Downloader/releases/)에 방문하여 다운받습니다.
 2. exe 파일을 더블클릭하여 실행합니다.
 3. 콘솔 표시가 뜨고 파일이 다운로드될 때까지 기다립니다.
 4. 다운로드가 완료되면 파일 탐색기가 열립니다.

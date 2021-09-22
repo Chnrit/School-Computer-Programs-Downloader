@@ -6,7 +6,7 @@
 # Author: Chnrit (Chnrit@github)
 # License: MIT
 # GitHub: https://github.com/Chnrit/School-Computer-Programs-Downloader
-# Version: 1.0.1.2
+# Version: 1.0.1.3
 # 
 ##############
 
@@ -50,11 +50,15 @@ else:
 
     download("Firefox.exe", "https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=ko")
 
+    download("FirefoxDeveloperEdition.exe", "https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=win&lang=ko")
+
     download("PowerToysSetup-0.45.0.exe", "https://github.com/microsoft/PowerToys/releases/download/v0.45.0/PowerToysSetup-0.45.0-x64.exe")
 
     download("Git-2.33.0.2-64-bit.exe", "https://github.com/git-for-windows/git/releases/download/v2.33.0.windows.2/Git-2.33.0.2-64-bit.exe")
 
     download("DiscordSetup.exe", "https://discord.com/api/download?platform=win")
+
+    download("Python3.9.7.exe", "https://www.python.org/ftp/python/3.9.7/python-3.9.7-amd64.exe")
 
     location = os.getcwd()
 
