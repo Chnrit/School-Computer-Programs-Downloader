@@ -15,7 +15,7 @@
 ## 사용법
 
 ### exe 파일 다운로드받기
-1. [exe 파일](https://static.chnrit.com/downloads/SCPD/1.0.0/SCPDServer1.0.1.3.exe)을 바로 다운로드받거나 [릴리즈 페이지](https://github.com/Chnrit/School-Computer-Programs-Downloader/releases/)에 방문하여 다운받습니다.
+1. [exe 파일](https://static.chnrit.com/downloads/SCPD/1.0.1.3/SCPDServer1.0.1.3.exe)을 바로 다운로드받거나 [릴리즈 페이지](https://github.com/Chnrit/School-Computer-Programs-Downloader/releases/)에 방문하여 다운받습니다.
 2. exe 파일을 더블클릭하여 실행합니다.
 3. 콘솔 표시가 뜨고 파일이 다운로드될 때까지 기다립니다.
 4. 다운로드가 완료되면 파일 탐색기가 열립니다.
@@ -34,3 +34,8 @@
 **본 프로그램은 사용자의 개인정보를 전혀 수집하지 않으며 PC에 변형을 발생시키지 않습니다.**
 
 다만 본 프로그램의 사용에 따라 인터넷에서 서버로 요청을 보내므로 해당 서버에 IP 주소와, 접속 로그가 기록될 수 있습니다. 이때 요청을 저의 서버로 보낸 경우 저도 이 정보를 확인할 수 있습니다.
+
+## 참고
+* Python 버전: 3.9.7
+* 컴파일: Windows 10 Pro, pyinstaller
+* Windows 10 이외 운영체제에서의 작동을 보장하지 않습니다.
