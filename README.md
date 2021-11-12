@@ -36,6 +36,6 @@
 다만 본 프로그램의 사용에 따라 인터넷에서 서버로 요청을 보내므로 해당 서버에 IP 주소와, 접속 로그가 기록될 수 있습니다. 이때 요청을 저의 서버로 보낸 경우 저도 이 정보를 확인할 수 있습니다.
 
 ## 참고
-* Python 버전: 3.9.7
-* 컴파일: Windows 10 Pro, pyinstaller
-* Windows 10 이외 운영체제에서의 작동을 보장하지 않습니다.
+* Python 버전: 3.9.8
+* 컴파일: Windows 11 Pro (ARM64 Insider Preview), pyinstaller
+* Windows 10, 11 이외 운영체제에서의 작동을 보장하지 않습니다.
